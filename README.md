@@ -5,3 +5,9 @@ Create virtual environment:
 
 Enter virtual environment:
 `source ./env/Scripts/activate`
+
+
+ENV
+
+FLASK_APP=script
+FLASK_ENV=development
